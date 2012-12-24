@@ -6,4 +6,3 @@
  * Time: 12:12
  * To change this template use File | Settings | File Templates.
  */
-echo '12';
